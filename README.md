@@ -136,7 +136,7 @@ EfficientNet Paper (ICML 2019)<br>
 APTOS 2019 Dataset (Kaggle)<br>
 Deep Learning – Goodfellow et al.<br>
 
-#Author
+# Author
 Megha R
 
 Contribution<br>
